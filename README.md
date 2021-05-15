@@ -1,6 +1,6 @@
 # paintJS
 Paint Board made with vanilla JS
-<br>
+<br><br>
 
 
 
