@@ -12,5 +12,5 @@ html의 canvas태그의 API를 공부해보기 위해 간단한 미니 그림판
 <br><br>
 
 <h3>후기</h3>
-- canvas의 기본 api들의 활용법에 대해 공부할 수 있었다.
+- canvas의 기본 api들의 활용법에 대해 공부할 수 있었다.<br>
 - 다음엔 canvas의 Animation 효과를 통한 인터렉티브 웹을 제작해봐야겠다.
