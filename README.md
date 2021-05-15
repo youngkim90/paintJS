@@ -8,7 +8,7 @@ html의 canvas태그의 API를 공부해보기 위해 간단한 미니 그림판
 <br><br>
 
 <h3>그림판 주소</h3> 
-<a href="https://youngkim90.github.io/paintJS/index.html"> 미니 그림판 </a>
+<a href="https://youngkim90.github.io/paintJS/index.html" target="_blank"> 미니 그림판 </a>
 <br><br>
 
 <h3>후기</h3>
